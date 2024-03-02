@@ -56,7 +56,7 @@ The categorical values representing different times of sale ('Morning', 'Afterno
 The SQL view `transformed_sales_view` encapsulates all these transformations, providing a structured and clean dataset ready for further analysis and visualization.
 
 
-## SQL Queries and Power BI Integration
+## Files
 
 Two SQL files are provided:
 
@@ -66,9 +66,8 @@ Two SQL files are provided:
 
 The `transformed_sales_view` view can be directly imported into Power BI for visualization and analysis. This integration streamlines the process of leveraging SQL transformations in Power BI for creating reports and dashboards.
 
+The document `queries_document.pdf` has been added to showcase all the outputs of each SQL query.
 
+## SQL Queries and Power BI Integration
 
-
-## Contributors
-- Bruno Cestari
 
