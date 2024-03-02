@@ -3,7 +3,12 @@
 ## Overview
 This project focuses on analyzing sales data from Balaji Restaurant, aiming to derive insights into various key performance indicators (KPIs) and visualizing trends through charts and graphs. The project involves data cleaning, transformation, querying, and visualization techniques to provide valuable insights into sales performance, customer behavior, and trends over time.
 
+**Tech used**: PostgreSQL and Power BI
+
 ## Dashboard/Visualization
+
+![GitHub Logo](https://github.com/BrunoCestari/Balaji-Restaurant-Sales-Analysis/blob/main/images/dashboard.gif)
+
 
 [Link to Final Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmM3MzY0YzItM2I0Ny00ZGI1LTg2YzAtNmJhZTY5MzA0MzMxIiwidCI6Ijg4MjY2Y2Q5LTQzMzQtNDkzMi1hYWNkLWJiOGE2OWY1Mjk1MyJ9)
 
