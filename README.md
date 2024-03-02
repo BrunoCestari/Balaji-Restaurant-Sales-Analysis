@@ -72,5 +72,3 @@ The `transformed_sales_view` view can be directly imported into Power BI for vis
 ## Contributors
 - Bruno Cestari
 
-## License
-[Specify license, e.g., MIT License]
