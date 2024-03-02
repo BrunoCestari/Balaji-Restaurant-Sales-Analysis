@@ -64,10 +64,8 @@ Two SQL files are provided:
    
 2. **analysis.sql**: Contains queries for further data analysis and insights generation.
 
-The `transformed_sales_view` view can be directly imported into Power BI for visualization and analysis. This integration streamlines the process of leveraging SQL transformations in Power BI for creating reports and dashboards.
+The `transformed_sales_view` view can be directly imported into Power BI for visualization and analysis. This integration streamlines the process of leveraging SQL transformations in `Power` BI for creating reports and dashboards.
 
 The document `queries_document.pdf` has been added to showcase all the outputs of each SQL query.
-
-## SQL Queries and Power BI Integration
 
 
